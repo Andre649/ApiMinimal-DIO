@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "pTEl1OpU33E/G7IjYeu9iUFU2cKCsKuIzWM0kZVQLp9MMdaYN+aClet+mXBGoxtPxsgHilE8JjzyeHxenIQp8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre\\Desktop\\ApiMinimal\\ApiMinimal\\ApiMinimal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0-preview.7.25380.108\\microsoft.entityframeworkcore.tools.10.0.0-preview.7.25380.108.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
